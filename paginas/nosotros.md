@@ -29,7 +29,7 @@ Estas son las personas que hicieron la primera Bitblioteca.
 - **[Elena Casez](https://twitter.com/ecazes)**: productora de El Bit.
 - **[Ale](https://twitter.com/btcale)**: Vires in Numeris.
 - **[Barrabaass](https://twitter.com/mugenclown)**: no te quedes en la playa, súbete a la ola de Bitcoin.
-- **[SHOGUN](https://twitter.com/criptobastardo)**: filósofo bitcoiner. Organizador de Satoshi en Venezuela.
+- **[Javier Bastardo](https://twitter.com/criptobastardo)**: filósofo bitcoiner. Organizador de Satoshi en Venezuela.
 
 ## Sumate
 

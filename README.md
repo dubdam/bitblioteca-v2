@@ -18,7 +18,7 @@ La Bitblioteca 2.0 vuelve recargada. Ahora, en el espíritu open source de Bitco
 
 A quienes hicieron la primera Bitblioteca.
 
-**Impulso y coordinación:** Javier Bastardo y Satoshi en Venezuela. La cuenta original del proyecto fue [@laBitblioteca](https://twitter.com/laBitblioteca).
+**Impulso y coordinación:** [Javier Bastardo](https://twitter.com/criptobastardo) y Satoshi en Venezuela. La cuenta original del proyecto fue [@laBitblioteca](https://twitter.com/laBitblioteca).
 
 **Traducción** (entre paréntesis, la cantidad de textos):
 [Jacky Rivero](https://twitter.com/imjackyrivero) (13) ·
