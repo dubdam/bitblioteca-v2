@@ -63,3 +63,19 @@ Los textos se recuperaron en 2026 de las copias guardadas por [Internet Archive]
 - las guías prácticas que quedaron viejas (monederos, privacidad, Lightning) están guardadas como borrador hasta que alguien las actualice.
 
 Si encontrás algo desactualizado o mal traducido, [avisá o corregilo](CONTRIBUTING.md).
+
+## Licencia
+
+**Textos:** las traducciones y los artículos de este repositorio se publican bajo [Creative Commons Atribución 4.0 (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.es). Podés copiarlos, compartirlos y adaptarlos, incluso con fines comerciales, siempre que menciones:
+
+- al autor del texto original,
+- a quien lo tradujo,
+- y a la Bitblioteca, con un enlace al artículo.
+
+La licencia cubre la traducción, no el texto original en otro idioma: ese sigue siendo de su autor, bajo sus propias condiciones. Lo mismo vale para las imágenes tomadas de otras fuentes.
+
+Si tradujiste un texto para la primera Bitblioteca y preferís otra licencia, o que no se publique, [avisá](../../issues) y lo ajustamos.
+
+**Código del sitio:** licencia [MIT](https://opensource.org/license/mit).
+
+El texto legal completo de la licencia de los textos está en [LICENSE](LICENSE).

@@ -11,6 +11,8 @@ Podés colaborar de cuatro formas:
 
 Cada propuesta la revisa un editor antes de publicarse. Cuando se acepta, aparece en el sitio en uno o dos minutos, con tu nombre.
 
+**Licencia:** al proponer un texto aceptás publicarlo bajo [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.es): cualquiera puede compartirlo y adaptarlo, siempre que te dé crédito. Si traducís, eso cubre tu traducción; el texto original sigue siendo de su autor, por eso hace falta su permiso o una licencia libre.
+
 ---
 
 ## 1. Corregir un texto
