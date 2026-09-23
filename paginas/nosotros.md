@@ -3,7 +3,9 @@ titulo: "Nosotros"
 archivo: "https://web.archive.org/web/2023/https://bitblioteca.com/nosotros/"
 ---
 
-El proyecto Bitblioteca nació de la mano de Javier Bastardo y Satoshi en Venezuela en 2021, con el objetivo de traducir al español artículos educativos sobre Bitcoin. Cinco años después, el sitio ya no estaba activo y sus administradores originales no tenían intención de revivirlo. Por eso decidí rescatar el archivo que todavía estaba disponible y volver a poner a disposición el trabajo realizado en aquel momento.
+El proyecto Bitblioteca nació de la mano de Javier Bastardo y Satoshi en Venezuela en 2021, con el objetivo de traducir al español artículos educativos sobre Bitcoin. Se construyó con el trabajo voluntario de un grupo de bitcoiners de distintos países, que aportaron su tiempo y sus conocimientos para traducir, revisar y publicar decenas de textos fundamentales.
+
+Cinco años después, el sitio ya no estaba activo y sus administradores originales no tenían intención de revivirlo. Por eso decidí rescatar el archivo que todavía estaba disponible y volver a poner a disposición el trabajo realizado en aquel momento. Ese trabajo es de ellos: cada texto conserva el nombre de quien lo tradujo.
 
 La Bitblioteca 2.0 vuelve recargada. Ahora, en el espíritu open source de Bitcoin, el sitio cuenta con un [repositorio abierto](https://github.com/dubdam/bitblioteca-v2) donde la comunidad puede subir sus propias traducciones, corregir las que ya están, publicar artículos originales o republicar artículos publicados en otros lados.
 
