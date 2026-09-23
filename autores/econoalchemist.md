@@ -1,6 +1,6 @@
 ---
 nombre: "Econoalchemist"
-avatar: "../imagenes/2022/02/Econoalchemist.jpg"
+avatar: "../imagenes/autores/econoalchemist.jpg"
 web: "https://www.econoalchemist.com/"
 ---
 

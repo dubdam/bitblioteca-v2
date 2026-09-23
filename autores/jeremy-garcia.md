@@ -1,6 +1,6 @@
 ---
 nombre: "Jeremy García"
-avatar: "../imagenes/2022/02/JeremyGarcia.jpg"
+avatar: "../imagenes/autores/jeremy-garcia.jpg"
 web: "https://twitter.com/Jerimican5445"
 ---
 
