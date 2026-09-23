@@ -1,6 +1,5 @@
 ---
 nombre: "Bitcoin Magazine"
-avatar: "../imagenes/externas/secure.gravatar.com/avatar/"
 web: "https://bitcoinmagazine.com/"
 ---
 
