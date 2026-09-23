@@ -1,6 +1,6 @@
 # La Bitblioteca 2.0
 
-Textos sobre Bitcoin en español. Este repositorio es la fuente del sitio [bitblioteca.com](https://bitblioteca.com): lo que se acepta acá se publica solo.
+Textos sobre Bitcoin en español. Este repositorio es la fuente del sitio [bitblioteca.net](https://bitblioteca.net): lo que se acepta acá se publica solo.
 
 ## Un poco de historia
 
