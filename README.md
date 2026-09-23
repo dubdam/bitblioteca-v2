@@ -47,6 +47,7 @@ Si formaste parte del equipo y falta tu nombre, o querés que figure distinto, [
 ```
 articulos/    un archivo por texto
 autores/      un archivo por autor: nombre, foto, web y bio
+traductores/  un archivo por traductor: nombre, foto y cuenta
 paginas/      páginas fijas del sitio (Nosotros, etc.)
 imagenes/     imágenes usadas en los textos
 plantillas/   modelos para copiar al sumar un artículo o un autor

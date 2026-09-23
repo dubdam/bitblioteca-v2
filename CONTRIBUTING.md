@@ -45,6 +45,7 @@ Listo. Cuando se revise, vas a recibir un aviso.
 3. En GitHub, entrá a la carpeta `articulos/`, tocá **"Add file" → "Create new file"** y ponele de nombre el título en minúsculas y con guiones: `bitcoin-es-dinero.md`.
 4. Copiá el contenido de [`plantillas/articulo.md`](plantillas/articulo.md), completá la ficha y pegá tu traducción debajo.
 5. Si el autor no tiene archivo en `autores/`, creá uno con [`plantillas/autor.md`](plantillas/autor.md).
+   Si es tu primera traducción, creá también tu ficha en `traductores/` (misma plantilla, con tu nombre exactamente igual al del campo `traductor`). Así aparecés en la portada y tenés tu página con todo lo que tradujiste.
 6. **"Commit changes" → "Propose changes" → "Create pull request"**.
 
 ### Criterios de traducción
