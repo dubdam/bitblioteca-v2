@@ -3,9 +3,15 @@ titulo: "Nosotros"
 archivo: "https://web.archive.org/web/2023/https://bitblioteca.com/nosotros/"
 ---
 
-La Bitblioteca nació en 2022 como un esfuerzo de la comunidad bitcoiner hispanohablante para traducir al español los textos fundamentales sobre Bitcoin. Este es el equipo que la hizo posible.
+El proyecto Bitblioteca nació de la mano de Javier Bastardo y Satoshi en Venezuela en 2021, con el objetivo de traducir al español artículos educativos sobre Bitcoin. Cinco años después, el sitio ya no estaba activo y sus administradores originales no tenían intención de revivirlo. Por eso decidí rescatar el archivo que todavía estaba disponible y volver a poner a disposición el trabajo realizado en aquel momento.
+
+La Bitblioteca 2.0 vuelve recargada. Ahora, en el espíritu open source de Bitcoin, el sitio cuenta con un [repositorio abierto](https://github.com/dubdam/bitblioteca-v2) donde la comunidad puede subir sus propias traducciones, corregir las que ya están, publicar artículos originales o republicar artículos publicados en otros lados.
+
+— Adam Dub
 
 ## El equipo original
+
+Estas son las personas que hicieron la primera Bitblioteca.
 
 - **[Emily Faria](https://twitter.com/emilybitcoiner)**: de ocupación, escritora. De profesión, ingeniera. Por convicción, bitcoiner.
 - **[Koty Auditore](https://twitter.com/Koty_Auditore)**: un anon sencillo que solo hace su parte. LFG.

@@ -1,62 +1,35 @@
-# Bitblioteca — traducciones
+# La Bitblioteca 2.0
 
-Textos sobre Bitcoin traducidos al español. Este repositorio es la fuente del sitio [bitblioteca.com](https://bitblioteca.com): cada cambio aceptado acá se publica solo.
+Textos sobre Bitcoin en español. Este repositorio es la fuente del sitio [bitblioteca.com](https://bitblioteca.com): lo que se acepta acá se publica solo.
 
-## Estructura
+## Un poco de historia
+
+El proyecto Bitblioteca nació de la mano de Javier Bastardo y Satoshi en Venezuela en 2021, con el objetivo de traducir al español artículos educativos sobre Bitcoin. Cinco años después, el sitio ya no estaba activo y sus administradores originales no tenían intención de revivirlo. Por eso decidí rescatar el archivo que todavía estaba disponible y volver a poner a disposición el trabajo realizado en aquel momento.
+
+La Bitblioteca 2.0 vuelve recargada. Ahora, en el espíritu open source de Bitcoin, el sitio cuenta con un repositorio abierto donde la comunidad puede subir sus propias traducciones, corregir las que ya están, publicar artículos originales o republicar artículos publicados en otros lados.
+
+**¿Querés sumar algo? Leé [cómo colaborar](CONTRIBUTING.md).**
+
+— Adam Dub
+
+## Qué hay acá
 
 ```
-articulos/   un archivo .md por texto
-autores/     un archivo .md por autor (nombre, foto, web y bio)
-paginas/     páginas fijas del sitio (nosotros, etc.)
-imagenes/    imágenes usadas en los textos
+articulos/    un archivo por texto
+autores/      un archivo por autor: nombre, foto, web y bio
+paginas/      páginas fijas del sitio (Nosotros, etc.)
+imagenes/     imágenes usadas en los textos
+plantillas/   modelos para copiar al sumar un artículo o un autor
 ```
 
-## Ficha de cada artículo
+Todo el contenido rescatado conserva el crédito a su autor, a quien lo tradujo y un enlace al texto original. Los textos pertenecen a sus autores.
 
-```md
----
-titulo: "Bitcoin es dinero"
-autor: "beautyon"              # nombre del archivo en autores/, sin .md
-traductor: "Tu nombre"
-traductor_url: "https://…"     # opcional
-fuente_original: "https://…"   # link al texto en inglés
-fecha: "2022-03-11"             # cuándo se publicó la traducción
-original: "2020-05-01"         # cuándo se publicó el texto original
-nivel: "basico"                # basico | medio | experto
-destacado: true                # opcional: aparece en "Para leer primero"
-series: ["parker-lewis-series"] # opcional
-portada: "../imagenes/2022/01/fractal-32.jpg"
-resumen: "Una o dos frases."
-borrador: true                 # opcional: no se publica
----
+## Sobre el rescate
 
-El texto traducido, en Markdown.
-```
+Los textos se recuperaron en 2026 de las copias guardadas por [Internet Archive](https://web.archive.org/web/2023/https://bitblioteca.com/). En la misma revisión:
 
-## Citas y recuadros
+- cada artículo indica el año de su texto original, porque muchos datos (precios, servicios, leyes) corresponden a esa fecha;
+- donde se recomienda un producto o servicio que cerró o cambió, hay un recuadro **Actualización 2026**;
+- las guías prácticas que quedaron viejas (monederos, privacidad, Lightning) están guardadas como borrador hasta que alguien las actualice.
 
-```md
-> Una cita común.
-
-> [!destacada]
-> Frase grande que corta el texto. También rota en la portada del sitio.
-
-> [!nota-traductor]
-> Aclaración de quien tradujo.
-
-> [!dato]
-> Recuadro con un dato o una definición.
-
-> [!actualizacion]
-> Algo que cambió desde que se escribió el original (servicio cerrado, dato viejo).
-
-> [!tweet] https://x.com/usuario/status/123
-> Texto del tweet.
-```
-
-## Cómo colaborar
-
-- **Corregir**: en cada artículo del sitio, "Corregir esta traducción" abre el archivo acá para editarlo.
-- **Traducir**: agregá un `.md` nuevo en `articulos/` con la ficha de arriba y abrí un pull request.
-
-Los textos originales pertenecen a sus autores; cada traducción enlaza a su fuente.
+Si encontrás algo desactualizado o mal traducido, [avisá o corregilo](CONTRIBUTING.md).
